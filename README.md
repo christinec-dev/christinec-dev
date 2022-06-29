@@ -1,4 +1,4 @@
-# About Christine-Dev
+# About Me
 
 - 👋 Hi, I’m @christinec-dev! I'm a South African Developer looking for bugs! 🔎
 - 👀 I’m interested in making cool apps & websites using React, Node, Java, C# and ✨C++✨
