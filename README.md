@@ -7,13 +7,13 @@
 - 👾 Check out my profile on Try Hack Me @[christinec](https://tryhackme.com/p/christinec)!
 
 ⭐ LINKS: 
-- ➡️ Website: https://oops-i-devd.gitbook.io/christinec-dev​
-- ➡️ YouTube: https://www.youtube.com/@christinec_devs
-- ➡️ Twitter: https://twitter.com/christinec_dev 
-- ➡️ KoFi: https://ko-fi.com/christinedevs 
-- ➡️ Medium: https://medium.com/@christinec-dev 
-- ➡️ Dev.to: https://dev.to/christinec_dev 
+- ➡️ [GitBook](https://oops-i-devd.gitbook.io/christinec-dev​)
+- ➡️ [YouTube](https://www.youtube.com/@christinec_devs)
+- ➡️ [Twitter](https://twitter.com/christinec_dev )
+- ➡️ [KoFi](https://ko-fi.com/christinedevs)
+- ➡️ [Medium](https://medium.com/@christinec-dev)
+- ➡️ [Dev.to](https://dev.to/christinec_dev )
 
 ⭐ CONTACT ME: 
 - ➡️ Email: christinec.dev@gmail.com
-- ➡️ Twitter DM: https://twitter.com/christinec_dev
+- ➡️ Twitter DM @christinec_dev
