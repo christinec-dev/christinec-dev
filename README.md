@@ -8,7 +8,7 @@
 
 ⭐ LINKS: 
 - ➡️ Website: https://oops-i-devd.gitbook.io/christinec-dev​
-- ➡️ YouTube: https://www.youtube.com/channel/UCOaZhw5qPybA5T0PhRn0Urw
+- ➡️ YouTube: https://www.youtube.com/@christinec_devs
 - ➡️ Twitter: https://twitter.com/christinec_dev 
 - ➡️ KoFi: https://ko-fi.com/christinedevs 
 - ➡️ Medium: https://medium.com/@christinec-dev 
