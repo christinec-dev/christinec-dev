@@ -16,4 +16,5 @@
 
 ⭐ CONTACT ME: 
 - ➡️ Email: christinec.dev@gmail.com
-- ➡️ Twitter DM @christinec_dev
+- ➡️ Twitter DM: @christinec_dev
+- ➡️ Discord: https://discord.gg/4N6b4bkC8h
