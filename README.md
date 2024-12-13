@@ -7,7 +7,7 @@
 - 👾 Check out my profile on Try Hack Me @[christinec](https://tryhackme.com/p/christinec)!
 
 ⭐ LINKS: 
-- ➡️ [Website](https://christinecdevs.site)
+- ➡️ [Website](https://oops-i-devd.gitbook.io/christinec-dev)
 - ➡️ [YouTube](https://www.youtube.com/@christinec_devs)
 - ➡️ [Twitter](https://twitter.com/christinec_dev )
 - ➡️ [KoFi](https://ko-fi.com/christinedevs)
