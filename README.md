@@ -13,5 +13,5 @@ I’m just a curious developer who loves creating cool projects using various to
 ⭐ CONTACT ME: 
 - ➡️ Email: christinec.dev@gmail.com
 - ➡️ Twitter DM: @christinec_dev
-- ➡️ Discord: https://discord.gg/4N6b4bkC8h
-- ➡️ LinkedIn: https://www.linkedin.com/in/christine-coomans
+- ➡️ [Discord](https://discord.gg/4N6b4bkC8h)
+- ➡️ [LinkedIn](https://www.linkedin.com/in/christine-coomans)
