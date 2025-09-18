@@ -1,12 +1,9 @@
 # About Me
 
-- 👋 Hi, I’m @christinec-dev! I'm a Developer looking for bugs! 🔎
-- 👀 I’m interested in making cool apps, systems, & games using various tools and technologies.👌
-- 📫 How to reach me? Well, just send me a DM on Twitter @christinec_dev! 💌
-- 👾 Check out my profile on Try Hack Me @[christinec](https://tryhackme.com/p/christinec)!
+I’m just a curious developer who loves creating cool projects using various tools and technologies. When I'm not busy coding or learning new skills, I enjoy sharing my knowledge of development and other topics that I find interesting through blogs, books, and YouTube videos. 
 
 ⭐ LINKS: 
-- ➡️ [Website](https://oops-i-devd.gitbook.io/christinec-dev)
+- ➡️ [Kaggle](https://oops-i-devd.gitbook.io/christinec-dev)
 - ➡️ [YouTube](https://www.youtube.com/@christinec_devs)
 - ➡️ [Twitter](https://twitter.com/christinec_dev )
 - ➡️ [KoFi](https://ko-fi.com/christinedevs)
